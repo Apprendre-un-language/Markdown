@@ -363,3 +363,7 @@ Col 1 | Col2 | Col3
 :-- | :-: | --:
 Ough que c'est moche | svp | arrêtez
 ```
+
+Pour plus d'information, consultez le post officiel de Jhon Gruber à propos de
+la syntaxe [ici](http://daringfireball.net/projects/markdown/syntax) et la
+superbe fiche pense-bête de Adam Pritchard [là](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
